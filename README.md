@@ -1,5 +1,5 @@
 
-<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/b1511f80-ea99-4f6b-8e3c-d88cff527247" />
+
 # Hola, soy Rosmel Galvis 👋
 Estudiante de Ingeniería de Sistemas apasionado por construir software, aprender y compartir lo que sé.
 ---
