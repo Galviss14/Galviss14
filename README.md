@@ -20,13 +20,4 @@ Ingeniería de Sistemas · 5° semestre
 **Frontend:** React · Next.js · Tailwind CSS · HTML5 · CSS3
 **Herramientas:** Git · GitHub · GitHub Actions
 **Nube:** AWS
----
-## 🚀 Proyectos
-- [**Lígamax**](https://github.com/Santiagosobrino09/ligamax): plataforma de streaming de partidos con Next.js, desplegada con GitHub Actions en AWS EC2
-- [**BPDS**](https://github.com/Galviss14/bpds):
-  
----
-💡 *"siempre en alto"*
-GitHub - Santiagosobrino09/ligamax
-Contribute to Santiagosobrino09/ligamax development by creating an account on GitHub.
-github.com
+
