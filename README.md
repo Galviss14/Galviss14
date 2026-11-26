@@ -21,3 +21,5 @@ Ingeniería de Sistemas · 5° semestre
 **Herramientas:** Git · GitHub · GitHub Actions
 **Nube:** AWS
 
+
+<img width="480" height="476" alt="image" src="https://github.com/user-attachments/assets/1d26b30d-b7f7-4be8-8267-f2789617f3f0" />
